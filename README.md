@@ -21,7 +21,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.kennywfl:MaterialSearchView:2.0.0'
+    implementation 'com.github.brunokk:MaterialSearchView:2.0.1'
 }
 ```
 
@@ -36,7 +36,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.github.kennywfl:MaterialSearchView:2.0.0")
+    implementation("com.github.brunokk:MaterialSearchView:2.0.1")
 }
 ```
 **Add MaterialSearchView to your layout file along with the Toolbar** *(Add this block at the bottom of your layout, in order to display it over the rest of the view)*:
